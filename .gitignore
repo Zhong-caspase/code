@@ -1,0 +1,31 @@
+# ==== 编译产物 ====
+*.exe
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.out
+*.class
+*.pyc
+
+# ==== 构建目录 ====
+build/
+dist/
+Debug/
+Release/
+*.exe.manifest
+*.pdb
+*.ilk
+
+# ==== 编辑器/系统临时文件 ====
+*.log
+*.tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# ==== 个人本地配置（可自行决定是否忽略） ====
+# .vscode/
